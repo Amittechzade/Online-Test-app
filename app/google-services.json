@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500599017660",
+    "project_id": "online-test-app-dd4b1",
+    "storage_bucket": "online-test-app-dd4b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500599017660:android:2ee1b1fb3de649141600b9",
+        "android_client_info": {
+          "package_name": "com.arkapps.onlinetestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500599017660-d5tdovbo849g995g1pacf1m7bk0sbbgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsLgIbEjl0uinDNKd_o9wiq-HCBlZgRCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500599017660-d5tdovbo849g995g1pacf1m7bk0sbbgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
